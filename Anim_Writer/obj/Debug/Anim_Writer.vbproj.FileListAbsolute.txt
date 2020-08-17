@@ -1,0 +1,12 @@
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\bin\Debug\Anim_Writer.exe.config
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\bin\Debug\Anim_Writer.exe
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\bin\Debug\Anim_Writer.pdb
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\bin\Debug\Anim_Writer.xml
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.vbprojAssemblyReference.cache
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.Form1.resources
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.Resources.resources
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.vbproj.GenerateResource.cache
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.exe
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.xml
+C:\Users\Jordan Adjei\source\repos\Anim_Writer\Anim_Writer\obj\Debug\Anim_Writer.pdb
